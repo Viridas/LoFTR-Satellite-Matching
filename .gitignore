@@ -1,0 +1,11 @@
+# Логи, чекпоінти та вихідні дані
+logs/
+checkpoints/
+
+# Ваші великі файли даних
+*.jsonl
+*.npy
+
+# Кеш Python
+__pycache__/
+.ipynb_checkpoints/

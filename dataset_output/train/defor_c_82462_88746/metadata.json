@@ -1,0 +1,20 @@
+{
+  "summer_img_path": "path/t36uya/s1.tif",
+  "other_img_path": "path/t36uya/w1.tif",
+  "date_summer": "2023-07-15",
+  "date_other": "2023-12-20",
+  "season_summer": "summer",
+  "season_other": "winter",
+  "season_pair": "summer_winter",
+  "deforestation_id": "defor_c",
+  "centroid": [
+    10.0,
+    10.0
+  ],
+  "tile": "T36UYA",
+  "grid_position": [
+    1,
+    1
+  ],
+  "days_difference": 158
+}

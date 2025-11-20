@@ -1,0 +1,20 @@
+{
+  "summer_img_path": "path/t36uxa/s1.tif",
+  "other_img_path": "path/t36uxa/a1.tif",
+  "date_summer": "2023-08-01",
+  "date_other": "2023-09-25",
+  "season_summer": "summer",
+  "season_other": "autumn",
+  "season_pair": "summer_autumn",
+  "deforestation_id": "defor_d",
+  "centroid": [
+    10.0,
+    10.0
+  ],
+  "tile": "T36UXA",
+  "grid_position": [
+    1,
+    1
+  ],
+  "days_difference": 55
+}

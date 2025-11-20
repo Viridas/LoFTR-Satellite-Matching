@@ -1,0 +1,20 @@
+{
+  "summer_img_path": "path/t36uya/s2.tif",
+  "other_img_path": "path/t36uya/a2.tif",
+  "date_summer": "2024-07-10",
+  "date_other": "2024-10-05",
+  "season_summer": "summer",
+  "season_other": "autumn",
+  "season_pair": "summer_autumn",
+  "deforestation_id": "defor_a",
+  "centroid": [
+    10.0,
+    10.0
+  ],
+  "tile": "T36UYA",
+  "grid_position": [
+    1,
+    1
+  ],
+  "days_difference": 87
+}
